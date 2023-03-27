@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-c4cb8a60.js";import{o,c as n,b as r,z as s}from"./index-583f3080.js";const _={},c={class:"search"},a={class:"form"};function d(e,l){return o(),n("div",c,[r("div",a,[s(e.$slots,"input",{},void 0,!0),s(e.$slots,"btn",{},void 0,!0)])])}const u=t(_,[["render",d],["__scopeId","data-v-1bbf9572"]]);export{u as A};
