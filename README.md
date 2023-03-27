@@ -8,8 +8,8 @@ WeMeet视频盲盒交友旨在为人们提供一个舒适，称心，自由的�
 
 ### 项目主要技术栈
 项目前端使用Vue+Vite+Axios+WebRTC。其中Vue编写前端页面，Vite用于构建前端，Axios用于网络请求，WebRTC与服务器获得协商信息进行P2P实时会话。
-后端使用Spring+SpringMVC+Mybatis+Nodejs+Coturn+MySQL+Swagger2。其中SSM框架用于进行经典的后端处理，如登录注册等，特别的是我们对房间也使用了SSM进行管理。Nodejs主要用于搭建WebSocket服务器，对用户通话进行连接和管理。Coturn服务器完整的实现了 STUN/TURN/ICE 协议，使用NAT技术进行 P2P 穿透防火墙。主要用于 webrtc 等点对点视频音频通话。MySQL则是进行持久层管理，Swagger2用于展示接口和模型文档。![Snipaste_2023-03-27_17-04-14](.\images\Snipaste_2023-03-27_17-04-14.png)
+后端使用Spring+SpringMVC+Mybatis+Nodejs+Coturn+MySQL+Swagger2。其中SSM框架用于进行经典的后端处理，如登录注册等，特别的是我们对房间也使用了SSM进行管理。Nodejs主要用于搭建WebSocket服务器，对用户通话进行连接和管理。Coturn服务器完整的实现了 STUN/TURN/ICE 协议，使用NAT技术进行 P2P 穿透防火墙。主要用于 webrtc 等点对点视频音频通话。MySQL则是进行持久层管理，Swagger2用于展示接口和模型文档。![Snipaste_2023-03-27_17-04-14](images\Snipaste_2023-03-27_17-04-14.png)
 
 ### 各种sdk版本
 
-![Snipaste_2023-03-27_17-05-47](.\images\Snipaste_2023-03-27_17-05-47.png)
+![Snipaste_2023-03-27_17-05-47](images\Snipaste_2023-03-27_17-05-47.png)
